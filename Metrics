@@ -1,4 +1,59 @@
 {
+  "coverPage": {
+    "title": "Risk Assessment",
+    "siteDetails": {
+      "client": "L&Q – Glebe Farm (Saxon’s Reach)",
+      "siteManager": "Ryan Burgess",
+      "siteRef": "7993",
+      "postcode": "MK17 8AB"
+    }
+  },
+  "importantInformation": {
+    "contractScope": "Delta Force Group have been contracted to provide security guarding on Glebe Farm. Additionally, Delta Force Group provide Glebe Farm with CCTV, Fire Alarms and Access Control.",
+    "supportContacts": {
+      "technicalSupport": "02080047669",
+      "controlRoom": "02080047665"
+    }
+  },
+  "documentControl": {
+    "documentID": null,
+    "revisionNumber": null,
+    "reviewedBy": null,
+    "reasonForReview": null,
+    "dateApproved": null,
+    "reviewDate": null
+  },
+  "riskScoringMethodology": {
+    "impactDefinitions": {
+      "I": "Measurable: No injury or environmental impact",
+      "II": "Marginal: Minor occupational injury or illness or minor environmental impact",
+      "III": "Serious Reversible: Occupational injury or illness, or major system damage",
+      "IV": "Serious Irreversible: Severe occupational injury or illness, or major system damage",
+      "V": "Catastrophic: An incident resulting in death or uncontrollable environmental impact"
+    },
+    "probabilityDefinitions": {
+      "A": "Frequently: Occurring often; high likelihood of occurrence; No controls in place",
+      "B": "Probable: Repeat occurrence. Likely to occur; Controls not used or ineffective",
+      "C": "History of Occurrence: May occur once: Secondary controls in place",
+      "D": "Remote: Difficult to occur; Unlikely but possible: Reliance on work practices to control risk",
+      "E": "Improbable: Very difficult to occur; No history of occurrence; Unlikely to occur"
+    },
+    "riskMatrix": "Calculated as Impact (I) × Probability (P) → Risk Rating"
+  },
+  "assessorDetails": {
+    "assessmentNumber": "0357",
+    "assessorName": null,
+    "position": null,
+    "company": null,
+    "assessmentDate": null,
+    "approvalDate": null,
+    "customer": null,
+    "signature": null
+  },
+  "riskRegister": [ /* 16 entries as before… */ ],
+  "appendices": []
+}
+{
   "metrics": {
     "totalRisks": 16,
     "controlsInPlaceRate": 100,
